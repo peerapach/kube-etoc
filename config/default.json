@@ -1,0 +1,9 @@
+{
+  "etcdServer": "SERVER_IP",
+  "etcdPort": "2379",
+  "Certificate": {
+    "ca": "ssl/ca.crt",
+    "cert": "ssl/client.pem", 
+    "key": "ssl/client.key"
+  }
+}

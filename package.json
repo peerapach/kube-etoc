@@ -1,0 +1,21 @@
+{
+  "name": "Kube-etoc",
+  "description": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "4.15.2",
+    "fs": "0.0.2",
+    "https": "1.0.0",
+    "mocha": "3.3.0",
+    "chai": "3.5.0",
+    "chai-http": "3.0.0",
+    "compression": "1.6.2",
+    "config": "1.26.1"
+  }
+}
